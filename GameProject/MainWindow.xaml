@@ -1,0 +1,23 @@
+﻿<Window x:Class="GameProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameProject"
+        mc:Ignorable="d"
+        Title="Boot Game" Height="450" Width="800">
+    <Grid>
+        <Canvas Name="myCanvas" Background="Aqua">
+            <Label Name="scoreText" FontSize="18">Score:0/10</Label>
+            <Label Name="questionOrder" FontSize="18" Canvas.Left="349">Question</Label>
+            <Image Name="qImage" Source="Image/JoshDo.jpg" Stretch="Uniform" Height="100" Width="600" Canvas.Left="104" Canvas.Top="39"></Image>
+            <TextBlock Name="txtQustion" TextAlignment="Center" Padding="3" FontSize="20" Width="572" TextWrapping="Wrap" Canvas.Left="104" Canvas.Top="150">
+                Hello Play Game
+            </TextBlock>
+            <Button Background="Brown" FontSize="18" Click="checkAnswer" Name="ans1" Width="200" Height="50" Content="Answer 1" Tag="0" Canvas.Left="104" Canvas.Top="220"/>
+            <Button Background="Brown" FontSize="18" Click="checkAnswer" Name="ans2" Width="200" Height="50" Content="Answer 2" Tag="0" Canvas.Left="104" Canvas.Top="320"/>
+            <Button Background="Brown" FontSize="18" Click="checkAnswer" Name="ans3" Width="200" Height="50" Content="Answer 3" Tag="0" Canvas.Left="476" Canvas.Top="220"/>
+            <Button Background="Brown" FontSize="18" Click="checkAnswer" Name="ans4" Width="200" Height="50" Content="Answer 4" Tag="0" Canvas.Left="476" Canvas.Top="320"/>
+        </Canvas>
+    </Grid>
+</Window>

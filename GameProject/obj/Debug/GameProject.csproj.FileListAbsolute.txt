@@ -1,0 +1,15 @@
+C:\Users\Intern 8\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe.config
+C:\Users\Intern 8\source\repos\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\Intern 8\source\repos\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.csprojAssemblyReference.cache
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\MainWindow.g.cs
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\App.g.cs
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject_MarkupCompile.cache
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject_MarkupCompile.lref
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\MainWindow.baml
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.g.resources
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.GenerateResource.cache
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.exe
+C:\Users\Intern 8\source\repos\GameProject\GameProject\obj\Debug\GameProject.pdb
